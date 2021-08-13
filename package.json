@@ -1,0 +1,30 @@
+{
+  "name": "rctcr",
+  "version": "1.0.0",
+  "description": "RCTCR - Right Click Then Click Report",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node ./src/index.ts",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GodderE2D/rctcr.git"
+  },
+  "author": "GodderE2D (main@godder.ga)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/GodderE2D/rctcr/issues"
+  },
+  "homepage": "https://github.com/GodderE2D/rctcr#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0-dev.1628726724.cd40292",
+    "dotenv": "^10.0.0",
+    "quick.db": "^7.1.3",
+    "ts-node": "^10.2.0",
+    "typescript": "^4.3.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
