@@ -49,6 +49,6 @@ Self-hosting is encouraged if your server is large (over 50,000 members) or you 
 
 ## Developers
 Made by [GodderE2D]#7290.  
-[Website](https://www.godder.ga) | [Email](mailto:main@godder.ga)
+[Website](https://www.godder.xyz) | [Email](mailto:main@godder.xyz)
 
 The fastest way to contact me is either through Discord or Twitter DMs. These will be checked almost daily.
